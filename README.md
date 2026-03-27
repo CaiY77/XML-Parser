@@ -1,4 +1,4 @@
-# Buiness XML Parser
+# Business XML Parser
 
 ## Documentation
 
